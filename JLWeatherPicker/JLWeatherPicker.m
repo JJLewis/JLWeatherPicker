@@ -8,7 +8,7 @@
 
 #import "JLWeatherPicker.h"
 
-@implementation WeatherPicker
+@implementation JLWeatherPicker
 
 -(NSString *)selectedWeatherCondition {
     return [self pickerView:self titleForRow:[self selectedRowInComponent:0] forComponent:0];

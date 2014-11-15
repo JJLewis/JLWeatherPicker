@@ -73,7 +73,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/JJLewis/JLWeatherPicker.git", :commit => "", :tag => "1.0" }
+  s.source       = { :git => "http://github.com/JJLewis/JLWeatherPicker.git", :commit => "6874b9a6f279884a3e066b5540bb8162faf2241b", :tag => "1.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
